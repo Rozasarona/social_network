@@ -1,6 +1,7 @@
 .nav {
     grid-area: n;
     background-color: pink;
+    padding: 20px;
 }
 
 .item {
@@ -8,7 +9,6 @@
     color: white;
 }
 
-.activeLink {
-    text-decoration: none;
-    color:blueviolet;
+.active {
+    color: greenyellow;
 }
